@@ -14,7 +14,7 @@ class Social_Media_Icons{
     }
 
     public static function uninstall(){
-
+        delete_option( 'widget_social_media_icons' );
     }
 
 }
