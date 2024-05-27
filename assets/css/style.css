@@ -1,0 +1,39 @@
+.socail-media-icon{
+    padding: 12px;
+    border-radius: 50px;
+}
+.socail-media-icon .fa-brands {
+    padding: 10px;
+    font-size: 12px;
+    width: 36px;
+    text-align: center;
+    text-decoration: none; 
+    border-radius: 50%;
+}
+.socail-media-icon .fa-facebook-f {
+    background: #3B5998;
+    color: white;
+}
+.socail-media-icon .fa-x-twitter {
+    background: #000000;
+    color: white;
+}
+.socail-media-icon .fa-square-instagram{
+    background: #125688;
+    color: white;
+}
+.socail-media-icon .fa-linkedin-in {
+    background: #007bb5;
+    color: white;
+}
+.socail-media-icon .fa-pinterest-p {
+    background: #cb2027;
+    color: white;
+}
+.socail-media-icon .fa-whatsapp{
+    background: #25d366;
+    color: white;
+}
+.socail-media-icon .fa-brands:hover {
+    opacity: 0.7;
+}
